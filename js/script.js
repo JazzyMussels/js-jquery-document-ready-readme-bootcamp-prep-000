@@ -1,1 +1,3 @@
-src="js/script.js"
+$(document).ready(function() {
+  src="js/script.js"
+})
